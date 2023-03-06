@@ -32,7 +32,7 @@ This is a tiny (“itsy bitsy”) bedside or desktop computer that
 ## Software Setup
 
 <p align="center">
-  <img src="images/kintone.jpg" width="300" />
+  <img src="images/kintone.jpg" width="400" />
 </p>
 
 <p align="center">
