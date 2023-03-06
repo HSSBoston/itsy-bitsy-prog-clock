@@ -21,7 +21,7 @@ This is a tiny (“itsy bitsy”) bedside or desktop computer that
 ## Hardware Setup
 
 <p align="center">
-  <img src="images/hw.jpg" width="400" />
+  <img src="images/hw.jpg" width="500" />
 </p>
 
 <p align="center">
@@ -32,11 +32,11 @@ This is a tiny (“itsy bitsy”) bedside or desktop computer that
 ## Software Setup
 
 <p align="center">
-  <img src="images/kintone.jpg" width="400" />
+  <img src="images/kintone.jpg" width="300" />
 </p>
 
 <p align="center">
-  <img src="images/python.jpg" width="400" />
+  <img src="images/python.jpg" width="500" />
 </p>
 
   
