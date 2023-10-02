@@ -20,11 +20,25 @@ This is a tiny (“itsy bitsy”) bedside or desktop computer that
 
 ## Hardware Setup
 
+<p align="center">
+  <img src="images/hw.jpg" />
+</p>
+
+<p align="center">
+  <img src="images/hw2.jpg" width="400" />
+</p>
+
 
 ## Software Setup
 
+<p align="center">
+  <img src="images/kintone.jpg" width="400" />
+</p>
 
-## Demo  
+<p align="center">
+  <img src="images/python.jpg" />
+</p>
+
   
   
   
