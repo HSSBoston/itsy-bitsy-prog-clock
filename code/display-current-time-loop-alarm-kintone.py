@@ -5,10 +5,6 @@ from tm1637 import TM1637
 #appId = "APP-ID-NUMBER"
 #token = "APP-TOKEN"
 
-sdomain = "jxsboston"
-appId = "11"
-token = "jQ8NQHzpMGMQoxdbve2frDAlDj18x0oXL61zfqKT"
-
 display = TM1637(CLK=21, DIO=20)
 display.showColon(True)
 
